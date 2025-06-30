@@ -2,8 +2,8 @@
 
 - 📆 Google Calendar API
 
--🔔 Firebase Cloud Messaging (FCM)
+- 🔔 Firebase Cloud Messaging (FCM)
 
--🧠 OpenAI API
+- 🧠 OpenAI API
 
 ---

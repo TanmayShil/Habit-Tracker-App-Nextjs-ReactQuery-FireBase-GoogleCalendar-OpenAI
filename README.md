@@ -31,3 +31,23 @@
  - AI Motivation: OpenAI API
 
 ---
+
+## 🧩 Key Features
+
+| Feature                 | Description                                       |
+| ----------------------- | ------------------------------------------------- |
+| ✅ Habit CRUD            | Create, view, update, delete habits               |
+| 📅 Google Calendar Sync | Sync habit schedules to calendar                  |
+| 🧠 Motivational Tips    | Use OpenAI API to generate habit ideas/motivation |
+| 🔔 Push Notifications   | Remind users with Firebase                        |
+| 📊 Habit Streaks        | Visual progress of daily/weekly completion        |
+| 🛠 Auth                 | (Optional) Use Firebase/Auth.js for user auth     |
+
+---
+
+## 🗂 Project Structure
+
+
+
+---
+

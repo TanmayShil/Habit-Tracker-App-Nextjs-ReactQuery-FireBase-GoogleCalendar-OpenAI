@@ -48,7 +48,7 @@
 ## 🗂 Project Structure
 
 <pre><code>
-/habit-tracker
+habit-tracker/
 ├── components/
 │   └── HabitCard.tsx
 ├── hooks/

@@ -88,3 +88,11 @@ habit-tracker/
 
 ---
 
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/TanmayShil/Habit-Tracker-App-Nextjs-ReactQuery-FireBase-GoogleCalendar-OpenAI.git
+npm install
+```
+---
+
